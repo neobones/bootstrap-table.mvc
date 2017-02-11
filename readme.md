@@ -37,6 +37,12 @@ You're now ready to start using bootstrap-table.
 
 ## Change Log
 
+#### 1.1.3 (11-02-17)
+* Updated reference to jQuery 3.1.1 - Bootstrap v3.3.7
+
+#### 1.1.2 (11-02-17)
+* Updated reference to bootstrap Table from version latest dist (from 1.6.0 to 1.11.0)
+
 #### 1.1.1 (22-02-15)
 * Set column title as split camel-case.
 * Support for ordered model properties [Display(Order=#)].
